@@ -162,7 +162,7 @@ Question: ${formData.question || 'Not provided'}
         </h1>
         
         <div className="text-xl md:text-2xl lg:text-3xl text-foreground/70 font-light mb-8 leading-relaxed">
-          Your Personal Astrologer
+          Your Personal AI Astrologer
         </div>
         
         <p className="text-lg md:text-xl text-foreground/60 mb-12 max-w-2xl mx-auto leading-relaxed">

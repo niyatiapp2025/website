@@ -1,0 +1,10 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Main outlined sparkle in purple - even bigger with thicker borders -->
+  <path d="M16 2L20 12L30 16L20 20L16 30L12 20L2 16L12 12L16 2Z" stroke="#8B5CF6" stroke-width="3" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+  
+  <!-- Top right dot in purple - bigger -->
+  <circle cx="26" cy="6" r="2" fill="#8B5CF6"/>
+  
+  <!-- Bottom left dot in purple - bigger -->
+  <circle cx="6" cy="22" r="2" fill="#8B5CF6"/>
+</svg> 
